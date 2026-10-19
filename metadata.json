@@ -1,0 +1,6 @@
+{
+  "name": "APEX DRIFT",
+  "description": "High-octane browser arcade racing and drift scoring game featuring custom vehicle physics, multiple circuits, and garage upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
